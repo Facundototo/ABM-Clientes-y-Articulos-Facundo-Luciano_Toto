@@ -1,0 +1,10 @@
+D:\ABM\ABM\obj\x86\Debug\ABM.Form1.resources
+D:\ABM\ABM\obj\x86\Debug\ABM.Form2.resources
+D:\ABM\ABM\obj\x86\Debug\ABM.Resources.resources
+D:\ABM\ABM\obj\x86\Debug\ABM.vbproj.GenerateResource.Cache
+D:\ABM\ABM\bin\Debug\ABM.exe
+D:\ABM\ABM\bin\Debug\ABM.pdb
+D:\ABM\ABM\bin\Debug\ABM.xml
+D:\ABM\ABM\obj\x86\Debug\ABM.exe
+D:\ABM\ABM\obj\x86\Debug\ABM.xml
+D:\ABM\ABM\obj\x86\Debug\ABM.pdb
