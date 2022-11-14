@@ -27,12 +27,12 @@ Partial Class Form2
         Me.Label2 = New System.Windows.Forms.Label()
         Me.ListBox2 = New System.Windows.Forms.ListBox()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'ListBox1
         '
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.Items.AddRange(New Object() {"nose"})
         Me.ListBox1.Location = New System.Drawing.Point(47, 103)
         Me.ListBox1.Name = "ListBox1"
         Me.ListBox1.Size = New System.Drawing.Size(141, 186)
@@ -73,18 +73,28 @@ Partial Class Form2
         Me.Button1.Text = "VOLVER"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(67, 331)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(84, 33)
+        Me.Button2.TabIndex = 5
+        Me.Button2.Text = "ACTUALIZAR"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(417, 407)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.ListBox2)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.ListBox1)
         Me.Name = "Form2"
-        Me.Text = "Form2"
+        Me.Text = "LISTAS"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -94,4 +104,5 @@ Partial Class Form2
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents ListBox2 As System.Windows.Forms.ListBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents Button2 As System.Windows.Forms.Button
 End Class

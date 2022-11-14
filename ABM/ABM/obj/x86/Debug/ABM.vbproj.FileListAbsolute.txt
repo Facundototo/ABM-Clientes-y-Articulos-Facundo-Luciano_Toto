@@ -8,3 +8,4 @@ D:\ABM\ABM\bin\Debug\ABM.xml
 D:\ABM\ABM\obj\x86\Debug\ABM.exe
 D:\ABM\ABM\obj\x86\Debug\ABM.xml
 D:\ABM\ABM\obj\x86\Debug\ABM.pdb
+D:\ABM\ABM\obj\x86\Debug\ABM.Form3.resources
